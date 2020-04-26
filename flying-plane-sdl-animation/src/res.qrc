@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Recording.m4a</file>
+    </qresource>
+</RCC>
